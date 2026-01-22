@@ -1,0 +1,4 @@
+stack tb use hoga when ques asks:
+!)move from left to right dont jump using 2 pointers
+2)waits for ans
+3)asks next greater/smallers ans
