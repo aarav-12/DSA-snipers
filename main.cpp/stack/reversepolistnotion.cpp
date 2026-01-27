@@ -17,6 +17,7 @@ public:
                 (token[0] == '-' && token.length() > 1)
             ) {
                 // String ko integer mein convert karke stack mein push
+                //stoi = stringt to integer
                 st.push(stoi(token));
             }
             else {
